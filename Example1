@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+
+   printf("age is %d",20);
+   printf("\n value of pi is %f",3.14);
+   
+    return 0;
+}
