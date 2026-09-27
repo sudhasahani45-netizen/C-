@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    int roll;
+
+    printf("Enter your roll number: ");
+    scanf("%d", &roll);
+
+    printf("Roll Number: %d", roll);
+
+    return 0;
+}
