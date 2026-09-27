@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    char cls[20];
+
+    printf("Enter your class: ");
+    scanf("%s", cls);
+
+    printf("Class: %s", cls);
+
+    return 0;
+}
