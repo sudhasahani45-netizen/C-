@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    char branch[30];
+
+    printf("Enter your branch: ");
+    scanf("%s", branch);
+
+    printf("Branch: %s", branch);
+
+    return 0;
+}
